@@ -1,0 +1,610 @@
+DIWBTJ:	skarang masih...
+DIWBTJ:	operasi ding maksudnyeh.
+DIWBTJ:	sakit, trus operasi.
+EXPTES:	sakit, trus operasi?
+DIWBTJ:	he-eh, jadi kan aku kan ngga ada yang ngurus...
+EXPTES:	hm-mh
+DIWBTJ:	jadi dititipin ke Semarang.
+DIWBTJ:	gito...
+DIWBTJ:	trus setelah selesai Mama operasi, trus skalean TK di Semarang, SD baru balik ke sini lagi.
+EXPTES:	oh...
+DIWBTJ:	gitu...
+EXPTES:	jadi Nyokap Bokap asal dari Semarang?
+DIWBTJ:	Nyokap Bokap ngaq.
+DIWBTJ:	Nyokap dari Pontianak, eee... Bokap dari xx.
+DIWBTJ:	Singkawang.
+DIWBTJ:	daerah Kalimantan Barat situ deh.
+EXPTES:	iya ya, tau.
+DIWBTJ:	hm-mh.
+EXPTES:	kamu berapa bersodara?
+DIWBTJ:	ck!
+DIWBTJ:	tunggal.
+EXPTES:	anak semata wayang.
+DIWBTJ:	semata wayang.
+EXPTES:	trus SMAmu dari mana?
+DIWBTJ:	SMA di sini.
+DIWBTJ:	SMA di... Budi Mulia.
+DIWBTJ:	Mangga Besar.
+EXPTES:	xx
+EXPTES:	banyak juga ya anak-anak Budi Mulia ya.
+EXPTES:	ke mana-mana keluar (a)nak Budi Mulia lagi, anak Budi Mulia lagi.
+DIWBTJ:	dari BM.
+EXPTES:	oh, dari BM?
+EXPTES:	kenapa kamu ngambil Ekonomi.
+DIWBTJ:	kenapa ambil Ekonomi?
+DIWBTJ:	e... ya gimana yah?
+DIWBTJ:	yang lain...
+EXPTES:	kenapa ketawa, Chitra?
+DIWBTJ:	ya biasa kan kalo cewe ya Ekonomi lah.
+DIWBTJ:	trus emang kalo yang lain ngga minat, trus emang ngga apah... ngga bakat juga kali ya.
+DIWBTJ:	Ekonomi aje keyeqnya lebih, lebih... ck, familiar gitu, dibanding yang lain.
+EXPTES:	dia ngelihat ke kolong melulu.
+EXPTES:	rencananya abis ini mo ke mana?
+DIWBTJ:	abis ini rencananya?
+DIWBTJ:	selesaiin kuliah dulu.
+DIWBTJ:	ntar baru e... pikir-pikir deh gimana.
+EXPTES:	kacau!
+EXPTES:	kamu tinggal di mana sih?
+DIWBTJ:	tinggalnya di Sumur Batu.
+EXPTES:	Sumur Batu?
+DIWBTJ:	di... Cempaka Putih.
+EXPTES:	iya, tau.
+EXPTES:	di... de(kat), deket mananya?
+DIWBTJ:	hmm... pasarnya tau ngga?
+EXPTES:	kayanya sih.
+DIWBTJ:	ya di situ lah, deket.
+DIWBTJ:	pasar, sebelahnya ada jalan masuk.
+EXPTES:	gereja itu... di sebelum gereja itu masuk dari mana?
+DIWBTJ:	gereja... gereja apa?
+DIWBTJ:	Paskalis ya?
+EXPTES:	hm-mh.
+DIWBTJ:	ngga, masalahnya Cempaka Putih, (i)ni kuburane.
+FEBBTJ:	xx.
+EXPTES:	iya.
+DIWBTJ:	ini...
+EXPTES:	seberangnya kan?
+DIWBTJ:	he-eh, seberangnya, di sininya kan ada masuk, ada jalan kan, masuk.
+EXPTES:	oh, lurus.
+DIWBTJ:	trus lurus.
+EXPTES:	berapa lama tinggal di situ udah?
+DIWBTJ:	udah dari... kapan ya?
+DIWBTJ:	SM(P)... SM(P)... udah lama sih, dari SMP gitu.
+EXPTES:	sebelumnya?
+DIWBTJ:	sebelumnya Kota, ada.
+DIWBTJ:	di... Bendungan Jago.
+DIWBTJ:	Jakarta juga.
+EXPTES:	hm-mh.
+DIWBTJ:	cuman jalannya lain-lain.
+DIWBTJ:	Bendungan Jago.
+EXPTES:	apa?
+DIWBTJ:	Bendungan Jago.
+EXPTES:	oh, Bendungan Jago.
+DIWBTJ:	he-eh, tau?
+EXPTES:	ngga.
+EXPTES:	habis... taunya Bendungan Hilir.
+DIWBTJ:	deket-deket situ deh.
+EXPTES:	jadi Bendungan Hilir.
+DIWBTJ:	he-eh.
+EXPTES:	o...
+DIWBTJ:	Bendungan Jago, di xx.
+DIWBTJ:	pindah-pindah deh.
+EXPTES:	berapa kali pindah?
+DIWBTJ:	sudah berapa kali ya?
+DIWBTJ:	dua kali.
+DIWBTJ:	dua kali pindah.
+EXPTES:	belum banyak dong.
+DIWBTJ:	ck, ya...
+EXPTES:	tapi pindah aja udah repot ya?
+DIWBTJ:	iya, pindah udah repot.
+DIWBTJ:	beres-beres segala.
+EXPTES:	hmm...
+DIWBTJ:	tapi kita pindahnya deket-deket, ngga, ngga jauh-jauh.
+DIWBTJ:	pindahnya hatu... masih satu kelurahan deh, gitu.
+EXPTES:	hm-mh... hm-mh... hm-mh...
+CHIBTJ:	udah selesai ya?
+EXPTES:	udah?
+CHIBTJ:	udah.
+CHIBTJ:	ngga tau, sudah lupa-lupa.
+EXPTES:	gaq pa-pa.
+EXPTES:	skarang ronde kedua.
+EXPTES:	ketik lagi namanya ya.
+EXPTES:	semester berapa kamu sekarang?
+DIWBTJ:	enam.
+EXPTES:	enam?
+EXPTES:	kira-kira kalo skripsi brapa lama lagi?
+DIWBTJ:	hmm... ya, setahun lah kalo lancar.
+EXPTES:	setahun?
+EXPTES:	setahun lagi?
+DIWBTJ:	iya.
+EXPTES:	hmm... udah punya pacar belum?
+DIWBTJ:	belum.
+EXPTES:	mau cariin?
+DIWBTJ:	boleh.
+DIWBTJ:	(ci)ci kuliahnya di mana dulu?
+EXPTES:	Atma...
+DIWBTJ:	oh Atma.
+EXPTES:	he-eh.
+DIWBTJ:	jurusan?
+EXPTES:	FKIP, Inggris.
+DIWBTJ:	oh, Inggris.
+EXPTES:	he-eh.
+EXPTES:	kamu falkutas apa sih?
+EXPTES:	eh, sorry, angkatan berapa?
+DIWBTJ:	manajemen.
+DIWBTJ:	angkatan dua ribu satu.
+EXPTES:	o, dua ribu satu.
+EXPTES:	waktu itu aku angkatan... sembilan enam.
+DIWBTJ:	sembilan enam?
+DIWBTJ:	xx, xx, cici saya juga ada di FKIP, tapi angkatan berapa ya?
+EXPTES:	katanya anak tunggal!
+DIWBTJ:	ngga, cici sepupu.
+EXPTES:	ah!
+DIWBTJ:	xx Atma juga, namanya Jumian.
+EXPTES:	tapi xx angkatan berapa?
+EXPTES:	tunggu bentar.
+CHIBTJ:	ini dulu e... liat gambarnya aja, pasang-pasangin terus he-eh
+EXPTES:	ada... he-eh.
+EXPTES:	ada, jadi kamu harus eh, kamu harus hmm... eh... mengasi nilai itu mirip ato ngga mirip.
+EXPTES:	kalau mirip banget, kamu kasi angka sembilan, kalo ngga mirip angka satu, tapi kan kadang-kadang kamu liat dua, gambar itu artinya dibilang mirip ngga, dibilang ngga mirip juga ngga.
+EXPTES:	tengah-tengah kan?
+EXPTES:	nah, kamu sendiri yang kasi nilai itu berapa.
+CHIBTJ:	oh, ya.
+EXPTES:	ya?
+EXPTES:	semua angka harus dipakai, ya?
+EXPTES:	udah?
+FEBBTJ:	iya.. (ta)pi baru nyampe lusa.
+EXPTES:	he-eh, sama lagi.
+FEBBTJ:	sama aja kan?
+EXPTES:	itu, cici sepupu kamu umur berapa... skarang?
+DIWBTJ:	sekarang umur tiga puluh.
+EXPTES:	heh?
+DIWBTJ:	tiga puluh.
+EXPTES:	tiga puluh... angkatan berapa ya?
+FEBBTJ:	angkatan berapa, sembilan dua, sembilan eh...
+FEBBTJ:	sembilan empat.
+EXPTES:	ngga, sembilan empat, ngga.
+EXPTES:	sembilan dua.
+DIWBTJ:	sembilan dua ya?
+EXPTES:	ngga kenal lah ya.
+DIWBTJ:	iya, ngga kenal.
+FEBBTJ:	yailah, gua punya habis.
+DIWBTJ:	jauh.
+EXPTES:	he-eh, jauh banget.
+DIWBTJ:	sekarang... banyak ngga sih mahasiswinya?
+EXPTES:	banyak!
+DIWBTJ:	banyak ya?
+EXPTES:	ya... waktu jaman... waktu itu jaman... itu gue masih tiga ratusan gitu deh.
+DIWBTJ:	oh...
+EXPTES:	tiga ratusan... sekarang sih udah lebih dari itu ya, karnaq banyak banget peminatnya gitu loh, ngga nyangka.
+DIWBTJ:	banyak ceweknya tapi ya?
+EXPTES:	rata-rata xx.
+FEBBTJ:	kalo sekarang bahas(a)...
+FEBBTJ:	sekarang imbang.
+EXPTES:	imbang.
+EXPTES:	imbang ya skarang?
+FEBBTJ:	iya, banyak yang cowoq.
+EXPTES:	wah!
+DIWBTJ:	gaq mau kalah.
+EXPTES:	sekarang dong bisa ngelaba!
+DIWBTJ:	mestinya dari dulu.
+FEBBTJ:	sayang ya masuknya udah dulu-dulu.
+EXPTES:	ya, gitu deh.
+EXPTES:	kenapa dulu ngga kepengen masuk FKIP?
+EXPTES:	ngga tau?
+DIWBTJ:	dulu... FKIP, pikiran sering kursus, dulu sering kursus Inggris.
+DIWBTJ:	trus apa, ya udah pikir... e... pikirnya nih ya apah e... pingin keahlian lain maksudnya.
+DIWBTJ:	jadi jangan mendalami satu aja begitu.
+DIWBTJ:	ya udah.
+DIWBTJ:	lagi jauh-jauh apa jadi... bisanya lulus(an) FKIP jadi kayanya guru gitu.
+EXPTES:	hmm...
+DIWBTJ:	tapi ngga juga ya.
+EXPTES:	temenku banyak yang jadi... direktur.
+DIWBTJ:	luas ya?
+EXPTES:	ada ya(ng) jadi direktur, ada yang jadi sekretaris, ada yang jadi...
+DIWBTJ:	direktur, dia yang punya itu perusahaan.
+EXPTES:	iya!
+EXPTES:	jadi trus...
+DIWBTJ:	he-eh.
+EXPTES:	trus e... gitulah, kebetulan xx keluarganya juga sih.
+EXPTES:	trus udah gitu, ada yang jadi... apa namanya... e... public relation banyak.
+EXPTES:	ada yang jadi ini, presenter.
+EXPTES:	Metro TV tau?
+DIWBTJ:	serius?
+EXPTES:	dan ada presenter Chin(ese), e... bahasa Chinese.
+DIWBTJ:	bahasa Mandarin?
+FEBBTJ:	Catherine itu lho.
+EXPTES:	Catherine itu, itu anak FKIP dulu, angkatan sembilan lima.
+DIWBTJ:	oh...
+EXPTES:	sembilan empat apa, sembilan empat.
+DIWBTJ:	Catherine Keng kan?
+EXPTES:	iya, he-eh, itu...
+EXPTES:	trus ada yang... banyak koq, banyak banget.
+EXPTES:	anak-anaknya tuh banyak banget.
+EXPTES:	kalo kamu...
+DIWBTJ:	FKIPnya Atma bagus ya?
+EXPTES:	iya.
+FEBBTJ:	lucu dong.
+EXPTES:	gitu dong.
+EXPTES:	ya, trus udah gitu e... banyak koq.
+EXPTES:	jadi ngga hanya guru gitu.
+EXPTES:	trus enaknya, enaknya nih waktu krismon semua orang kan pada jobless, yang, yang ngajar tuh tetep terus.
+DIWBTJ:	hmm...
+EXPTES:	ya kan orang-orang itu tetep butuh pendidikan, gitu lho.
+DIWBTJ:	iya.
+EXPTES:	jadi tetep aja dia masih dipake gitu.
+EXPTES:	temen-temen yang laen udah... waktu itu pada di... uda(h)annya apa?
+EXPTES:	dikeluarin-keluarin gitu kan, harus dikeluarin gitu.
+EXPTES:	tapi yang aneh kok kuliah guru kok dapet terus.
+EXPTES:	malahan waktu itu tinggi banget permintaan.
+DIWBTJ:	oh...
+EXPTES:	nah, pas krismon kan banyak perusahaan yang masuk kan?
+EXPTES:	banyak perusahaan yang masuk kan harus minta employee.
+DIWBTJ:	iya, ya, ya...
+EXPTES:	ya gitu.
+EXPTES:	ya, lumayanlah...
+DIWBTJ:	harus ngomong Inggris ngga kalo misalkan sehari-hari di... falkutas dulu kuliah?
+EXPTES:	o ya!
+DIWBTJ:	kalo ketahuan misalnya ngaq ngomong Inggris?
+EXPTES:	ngga masalah, tapi karna kita di kelas ngomong pake bahasa Inggris terus...
+DIWBTJ:	he-eh, he-eh.
+EXPTES:	begitu keluar kita bawaannya pengen ngomong terus.
+DIWBTJ:	o... seru juga ya triknya.
+EXPTES:	iya!
+EXPTES:	sebenernya sih asik aja gitu, sebenernya e... kalo yang didenda itu ada acaranya sendiri, kaya kemping, anak FE kemping gitu ya.
+DIWBTJ:	o ya.
+DIWBTJ:	he-eh
+EXPTES:	itu juga ada, gitu.
+DIWBTJ:	o, kalo ngaq ngomong Inggris didenda.
+EXPTES:	nah, didenda!
+EXPTES:	satu kata lima ratus perak waktu itu.
+FEBBTJ:	xx
+EXPTES:	tapi gaq tau deh beneran apa ngga tuh.
+FEBBTJ:	beneran, beneran, di... itu, ED.
+EXPTES:	gue sih, jaman gue sih ngga, gue nipu.
+FEBBTJ:	oh...
+EXPTES:	gue nipu.
+EXPTES:	jadinya...
+EXPTES:	jadi pas kakak kelasnya ngga ada, gua ngomong pake bahasa xx...
+EXPTES:	ya gitu deh.
+EXPTES:	tapi lumayan, lumayan.
+EXPTES:	trus udah gitu...
+EXPTES:	ada mata kuliah penunjang.
+EXPTES:	jadi sekretaris sama Bank.
+EXPTES:	jadi kalo misalnya kita mau... jadi ada pilihan, kalo misalnya kita mau jadi sekretaris, itu paling ngga udah tau, udah apa?
+EXPTES:	eh... ada pengetahuan tentang kesekretariatan gitu lho.
+DIWBTJ:	pilih salah satu tapi.
+EXPTES:	pilih salah satu.
+EXPTES:	trus kalo mau yang ke bank, ya pilih bank, gito.
+EXPTES:	lumayan.
+DIWBTJ:	dulu pilihnya apa?
+EXPTES:	sekretaris, karna pikir apa namanya... e... ya practical aja, kalo misalnya in case gaq dapet kerjaan paling ngga ada ilmunya.
+EXPTES:	males ngajar kan?
+EXPTES:	ya keyeq gitu aja, udah.
+DIWBTJ:	iya.
+EXPTES:	hm-mh.
+EXPTES:	kamu aktif di mana?
+DIWBTJ:	aktif apanya, maksudnya?
+EXPTES:	organisasi.
+DIWBTJ:	e... ngga ada.
+EXPTES:	ngga ada?
+DIWBTJ:	ngga.
+DIWBTJ:	ikut organisasi ada.
+DIWBTJ:	ngga aktif.
+EXPTES:	ikut apa?
+DIWBTJ:	ikut pastoran.
+EXPTES:	o, kamu pastoran.
+DIWBTJ:	he-eh.
+DIWBTJ:	dulunya.
+EXPTES:	skarang romonya siapa sih?
+DIWBTJ:	skarang kenapa?
+DIWBTJ:	romonya romo Swidanto.
+EXPTES:	Swidanto?
+FEBBTJ:	oh...
+EXPTES:	ada Taize ngga sih di situ.
+DIWBTJ:	siapa?
+EXPTES:	Taize.
+DIWBTJ:	xx... ada, ada.
+EXPTES:	Taize.
+DIWBTJ:	hari apa tuh ya... hari Rabu kalo ngga salah.
+EXPTES:	kamu ikut?
+DIWBTJ:	gaq.
+DIWBTJ:	Rabu, setengah empat ya?
+DIWBTJ:	Taize, ada.
+EXPTES:	ada Taize?
+DIWBTJ:	Taizenya enak sih yang di pastoran ini.
+EXPTES:	enaknya kenapa?
+EXPTES:	rasanya manis?
+DIWBTJ:	hmm...
+EXPTES:	pahit?
+DIWBTJ:	ngga, apa sih... he... musiknya enak, gitu lho... ya.
+EXPTES:	musiknya emang enak-enak, he-eh.
+DIWBTJ:	musiknya enak.
+DIWBTJ:	toh tenang, gitu ya, aslinya ya?
+EXPTES:	lilin-lilin.
+EXPTES:	lo xx ikutnya apa yang di pastoran?
+DIWBTJ:	pastoran itu ikut merangkai bunga.
+EXPTES:	apa tuh?
+DIWBTJ:	jadi merangkai, jadi mo misa kan suka ada suruh merangkai bunga karena ikut, tapi ngga aktif.
+DIWBTJ:	cuma pernah ikut sekali trus ngga ikut lagi.
+EXPTES:	ck!
+EXPTES:	ngaq niat.
+DIWBTJ:	trus kaitannya juga ketemu.
+DIWBTJ:	‘ke mana?’
+DIWBTJ:	‘iya, sibuk, sibuk.’
+DIWBTJ:	gitu deh.
+DIWBTJ:	abis gimana ya, apah?
+DIWBTJ:	itunya sih enak, apa namanya, PPA, pas gua begitu masuk langsung ada PPA.
+DIWBTJ:	cuma setelah itu kan ya...
+DIWBTJ:	itu jadi bebas, maksudnya mau ikut aktif boleh, kalo ngga ngga papa, maksudnya ‘sering-seringlah main ke pastoran.’
+DIWBTJ:	skarang ngga sering main, kecuali lagi itu.
+DIWBTJ:	kenalnya kan cuman baru kenal gitu kan, jadi ya lama-lama males, males, males, ya udah.
+DIWBTJ:	sama sekali ngga aktif, ogah ah.
+EXPTES:	PPL itu apa ya?
+DIWBTJ:	Pelatihan Putra Putri Liturgi.
+EXPTES:	oh, liturgi.
+DIWBTJ:	hm-mh... jadi di situ dikenalin pastoran ini bagiannya apa aja, apa aja, mo masuk yang mana.
+EXPTES:	kamu kenal Peggy dong.
+DIWBTJ:	Peggy?
+EXPTES:	anak angkatan atas, Psychology.
+EXPTES:	dia aktif di pastoran.
+DIWBTJ:	aktif ya?
+EXPTES:	he-eh.
+DIWBTJ:	ya kaya saya ngga aktif sih ya.
+EXPTES:	oh iya, mungkin.
+DIWBTJ:	mungkin dia ngga kenal.
+EXPTES:	hm-mh, mungkin, mungkin sih ya.
+DIWBTJ:	he-eh.
+EXPTES:	iya.
+EXPTES:	trus waktu kalo misalnya Paskah segala kamu ke mana
+DIWBTJ:	gereja.
+EXPTES:	bukan di pastoran?
+DIWBTJ:	bukan, gereja, ada no temen, ada.
+DIWBTJ:	misalnya Katedral
+EXPTES:	hm-mh
+EXPTES:	tapi kayanya ini, ini banget ya, pastoran aktif, lumayan...
+DIWBTJ:	maksudnya...
+EXPTES:	lumayan aktif juga.
+DIWBTJ:	di antaranya banyak, kegiatannya banyak.
+DIWBTJ:	bakti sosial, banyak yang ada lah pasti
+EXPTES:	hm-mh.
+EXPTES:	kenapa kamu ngga pengen ikut?
+DIWBTJ:	kenapa nga pengen ikut?
+DIWBTJ:	gak ini aja... gak terdorong.
+DIWBTJ:	gimana dong?
+EXPTES:	kalo yang lain, kegiatan yang lain?
+DIWBTJ:	yang lain-lain, kegiatan yang...
+EXPTES:	UKM yang lain?
+DIWBTJ:	di Atma gitu maksudnya, yang lain-lain?
+DIWBTJ:	jarang sih ya.
+DIWBTJ:	paling ngga... ngga, ngga pernah, maksudnya... ngga ada.
+DIWBTJ:	biasa aja gitu, xx, e... kalo ada seminar-seminar kadang-kadang ikut, tapi kalo yang ngga menarik ya ngga.
+EXPTES:	seminar apa yang buat kamu menarik?
+DIWBTJ:	seminar yang menarik?
+DIWBTJ:	yang ada artisnya.
+EXPTES:	dasar!
+DIWBTJ:	iseng!
+EXPTES:	misal, misal.
+DIWBTJ:	jadi yang itu, yang berkaitan sama ini ya, pekerjaan.
+EXPTES:	hmm...
+DIWBTJ:	yang job apa, gitu, gitu, gitu.
+DIWBTJ:	yang maksudnya mempersiapkan untuk xx kerja, gitu-gitu deh, keyeqnya lebih... ada gunanya, maksudnya, kalo ikut.
+DIWBTJ:	kalo yang xx itu kan gak... kayanya ngga terlalu efek banget kalo seminar yang... ck!
+DIWBTJ:	kan banyak tuh seminar komik segala macem, cuman keyeqnya ngga, ngga terlalu minat sih ke situ.
+EXPTES:	oh... itu, apa namanya, terakhir, seminar yang kamu ikutin yang mana?
+DIWBTJ:	terakhir First Asia
+EXPTES:	oh, First Asia?
+EXPTES:	dulu sepupuku kerja di situ.
+EXPTES:	dia ngasi apa aja di aa... seminar First Asia?
+DIWBTJ:	First Asia ngasi ini... apa, tata cara bikin CV gimana, trus e... berpenampilan kalo mo kerja xx.
+DIWBTJ:	trus ada tesnya, tes kecil gitu untuk kepribadian, jadi kamu e... kan ada macem-macem tuh.
+DIWBTJ:	ck!
+DIWBTJ:	apa ya, e suka kerja dalam tim, mandiri, gitu-gitu, nanti peringkatnya lebih condong ke mana.
+EXPTES:	hmm...
+DIWBTJ:	he-eh.
+EXPTES:	trus hasil kamu adalah...
+DIWBTJ:	ada.
+DIWBTJ:	apa hasilnya ya?
+DIWBTJ:	e... macem-macem deh pokoknya!
+DIWBTJ:	‘hasilnya begini, begini.’
+DIWBTJ:	ngga, tapi e... ‘hasilnya tuh kamu lebih cenderung ke tim atau...’ e... apa nama...
+DIWBTJ:	lebih...
+EXPTES:	sendiri?
+EXPTES:	sendiri?
+DIWBTJ:	oh, tim apa sendiri?
+DIWBTJ:	lebih ke tim sih keyeqnya.
+EXPTES:	lebih ke tim.
+DIWBTJ:	he-eh.
+DIWBTJ:	trus dia yang... jadi ngga cuma satu kan macem yang banyak-banyak, dibahasnya tuh banyak banget, jadi dia ada angka-angkanya.
+DIWBTJ:	delapan satu tapi ke sana, lebih xx, kalo kurang lebih ke sini.
+DIWBTJ:	jadi macem-macem, ngga ada satu final jawabannya ini, ini, ngga.
+DIWBTJ:	xx e... apa, sifatnya beda-beda, gitu.
+EXPTES:	oh...
+DIWBTJ:	hm-mh, misalkan lebih masuk pemasaran, (i)ni masuk apa, gitu-gitu deh.
+EXPTES:	lho kamu hmm... eh... boleh masuk mana?
+EXPTES:	marketing?
+DIWBTJ:	tengah-tengah sih, bisa xx marketing, bisa ke ini.
+EXPTES:	belum jelas berarti ya?
+DIWBTJ:	ya.
+DIWBTJ:	ngga, bukan belum jelas tapi xx lho ya.
+EXPTES:	iya, iya, iya.
+EXPTES:	bercanda, bercanda.
+EXPTES:	eh... trus, udah gitu kamu pernah ikut seminar apa lagi, selain First Asia?
+DIWBTJ:	First Asia, seminar... dulu seminar STP.
+EXPTES:	apa tuh?
+DIWBTJ:	segmenting targeting positioning
+EXPTES:	segmenting...
+DIWBTJ:	(seg)menting...
+DIWBTJ:	targeting, positioning.
+EXPTES:	positioning, oke.
+DIWBTJ:	he-eh.
+EXPTES:	itu tentang?
+DIWBTJ:	tuh... eh, retailer, ngomongin retailer.
+DIWBTJ:	jadi kaya misalkan...
+EXPTES:	Carrefour...
+DIWBTJ:	(Carre)four.
+DIWBTJ:	nah, dia segmenting targetingnya gimana, gitu.
+EXPTES:	Hero...
+EXPTES:	gimana kalo Carrefour?
+DIWBTJ:	Carrefour, berarti dia... aduh, udah lupa ini.
+DIWBTJ:	dia segmennya pokoknya ck hmm... ck, keluarga, mulai keluarga apa, e... semuanya deh bisa gitu.
+DIWBTJ:	targetnya ya konsumen yang, yang memerlukan... apa sih, e.. namanya, kebutuhan sehari-hari, gitu
+DIWBTJ:	makanya dia jualnya skala retail.
+DIWBTJ:	gitu-gitu deh.
+EXPTES:	hmm...
+DIWBTJ:	positioningnya dia kan saat ini terbesar kan, isinya, di daerah terbesar.
+DIWBTJ:	ya begitulah.
+DIWBTJ:	xx.
+EXPTES:	bagaimana dengan Hero?
+DIWBTJ:	Hero... dia tuh (ter)masuk (re)tail tapi udah kalah sama Carrefour.
+EXPTES:	oh...
+DIWBTJ:	(mak)sudnya, e... dia kan, Carrefour kan hypermarket gitu, dia kan ke... ini kecil, gitu.
+EXPTES:	jadi dia dibilang nih sih udah menurun, dulu kan dia nomer satu di Indonesia.
+DIWBTJ:	sejak masuknya yang lain-lain dia udah meningkat agak turun gitu.
+EXPTES:	waktu kamu ikut seminar itu, Giant udah ada belum?
+DIWBTJ:	Giant, e... belom.
+DIWBTJ:	waktu itu bangsa Carrefour yang terkenal, Continent dulu ya sebelum...
+EXPTES:	oh ya, Continent.
+DIWBTJ:	sebelum jadi Carrefour kan, dulu Continent.
+EXPTES:	ya, gimana Continent, awal dulu biasanya?
+DIWBTJ:	Continent mah emang sama sebenernye.
+DIWBTJ:	dulu kan Continent, trus kan e... keluar, diambil alih Carrefour kan?
+DIWBTJ:	nah... trus apa lagi ya?
+DIWBTJ:	Home Depot.
+DIWBTJ:	ada tuh, yang jual ck, perkakas rumah tangga.
+EXPTES:	hmm...
+DIWBTJ:	he-eh, misalnya colokan, gitu-gitu deh, tapi dia ngga jual kebutuhan sehari-hari, ada, ada.
+EXPTES:	itu positioning, targetingnya gimana?
+DIWBTJ:	ya begitu deh!
+DIWBTJ:	lupa!
+DIWBTJ:	kok banyak yang bagus sekarang.
+DIWBTJ:	e... dia pokoknya jualnya peralatan-peralatan khusus, cuma untuk dapur sama listrik.
+DIWBTJ:	jadi dia juga tapi di, di... kota besar, maksudnya... bukan kota besar ya, di Jakarta ngga banyak juga.
+DIWBTJ:	dia banyaknya tuh lebih di Bekasi.
+EXPTES:	oh, Tangerang, he-eh.
+DIWBTJ:	dulu ngga pernah tau.
+DIWBTJ:	xx banyaknya di situ-situ, yang daerah tepian gitu ya.
+EXPTES:	hm-mh
+DIWBTJ:	di sini ngga terlalu ada.
+DIWBTJ:	kebetulan yang, ck, yang apa sih, pembicaranya tuh yang punya.
+DIWBTJ:	jadi ya... jadi dia juga masukin, gitu lho.
+EXPTES:	Home Depot itu?
+DIWBTJ:	hm-mh.
+DIWBTJ:	Pak itu, Pak Monti, Monti Kodrata.
+DIWBTJ:	dosen, dosen juga di Atma.
+EXPTES:	oh ya?
+DIWBTJ:	hmm.
+EXPTES:	dosen Ekonomi juga?
+DIWBTJ:	iya.
+DIWBTJ:	aku ambil kelasnya dia.
+AVABTJ:	rame banget?
+EXPTES:	kita masih ada responden.
+AVABTJ:	hmm...
+EXPTES:	gimana dong?
+AVABTJ:	masih ada ngga?
+EXPTES:	ngga tau.
+EXPTES:	ini aja, perempuan ini belom.
+EXPTES:	Si ini belom, siapa, kamu siapa sih?
+DIWBTJ:	Diah.
+EXPTES:	Diah Widjaya belom.
+EXPTES:	gantian ya, sebentar lagi.
+AVABTJ:	ngga jadi makan bareng dong?
+EXPTES:	ya... unless, ada yang mau nungguin.
+AVABTJ:	terserah, lo sejam kan?
+EXPTES:	ngga tau!
+EXPTES:	di(a) xx ya Si Diah ini harus nungguin Si Erni.
+AVABTJ:	xx.
+EXPTES:	dua belas.
+EXPTES:	jam dua belas lewat kok.
+AVABTJ:	masalahnya udah, udah...
+EXPTES:	ya udah sana, temanilah pacarmu sana.
+EXPTES:	(u)dah sanah.
+EXPTES:	udah sana, ngga pa-pa, serius.
+AVABTJ:	ngga, tadi gua mau, mau ada speech, cuman kalo orangnya kurang ya percuma lah.
+EXPTES:	oh... ya, ya itu bisa nanti lah, nanti sore, takut banget sih digagalin.
+EXPTES:	udah sana, pergi ah!
+EXPTES:	cepetan, cepetan!
+AVABTJ:	ngga, mumpung masih bisa...
+EXPTES:	apaan?
+EXPTES:	apa?
+EXPTES:	nanti aja, private, private.
+AVABTJ:	apa nih?
+EXPTES:	private, kasih tau, gue xx...
+AVABTJ:	ntar, denger, denger dulu maksudnya...
+EXPTES:	masuk, masuk, ngga, ngga, jangan masuk yang ngga-ngga.
+EXPTES:	ehem, dia masuk ke yang nggaq-nggaq.
+AVABTJ:	hm-mh, hm-mh.
+EXPTES:	apa?
+AVABTJ:	mmm...
+AVABTJ:	yang ini bercanda.
+EXPTES:	iya.
+EXPTES:	apa bercanda?
+EXPTES:	ngga seru lo udah, udah garing nih, cepetan!
+AVABTJ:	‘dengan perginya anda berdua, saya tidak ada saingan.’
+EXPTES:	‘saya tidak ada...’ apa?
+AVABTJ:	jadi saya tidak punya saingan lagi.
+EXPTES:	saya...
+EXPTES:	bener ya?
+AVABTJ:	ngga, ini bercanda!
+EXPTES:	kamu xx ya!
+AVABTJ:	ini bercanda!
+EXPTES:	entar kamu pikirkan tapi ya!
+AVABTJ:	tadi gua bilang itu bercanda.
+EXPTES:	awas ya xx xx.
+AVABTJ:	ini seriusnya.
+EXPTES:	apa seriusnya?
+AVABTJ:	ini seriusnya.
+AVABTJ:	ni gua mo menyatakan...
+EXPTES:	perasaan.
+EXPTES:	apa?
+AVABTJ:	ya, maksudnya berperasaan itu ada.
+EXPTES:	ada.
+AVABTJ:	hal-hal yang bikin ribut.
+EXPTES:	xx.
+EXPTES:	bete.
+EXPTES:	ck... udah, gitu doang?
+EXPTES:	nanti gua bilang eh mereka berdua, ‘dengan kalian pergi, Olly merasa tidak punya saingan.’
+EXPTES:	apaa(n), lo mau apa?
+AVABTJ:	entar, entar, gua ngomong dulu.
+EXPTES:	entar-entar dulu, udah xx dari tadi juga!
+AVABTJ:	ya, maksudku... maksudku kepada, kepada orang yang, yang, yang xx.
+EXPTES:	Yah!
+EXPTES:	Diah!
+EXPTES:	tau ngga, laki-laki ini kalo ngomong dia begini-gini.
+EXPTES:	ngga kata-kata tapi tangannya...
+EXPTES:	lo masih lama lagi gue xx gue, gua akan mempermalukan lo lebih lama di depan dia.
+AVABTJ:	ngga pa-pa, itu jauh lebih berpahala.
+EXPTES:	cie...
+EXPTES:	oh ya, satu lagi, gini ini play boy tjap gajah doedoek.
+EXPTES:	di kantor ini.
+EXPTES:	dasar.
+EXPTES:	ayo, lo mau meluangkan lagi?
+EXPTES:	ngga pa-pa.
+AVABTJ:	boleh, boleh, boleh.
+AVABTJ:	tapi gua ngga rela dimadu.
+EXPTES:	apa hubungannya?
+EXPTES:	lo dimadu ama siapa?
+AVABTJ:	dimadu sama elo, jadi suami kedua lo.
+AVABTJ:	gua ngga rela, lho!
+AVABTJ:	entar di rumah main pedang-pedangan ama Anton.
+AVABTJ:	Pak Uri ngga tau nih, dia ngga tau.
+EXPTES:	nih... ini nih, dia kaya gini.
+EXPTES:	tapi gua tau.
+AVABTJ:	apaan?
+AVABTJ:	Pak Uri ngga tau, pendekar kekar.
+EXPTES:	mangkanya, udah deh xxx.
+EXPTES:	(ce)petan keluar, tuh lo keluar.
+EXPTES:	hmm...
+EXPTES:	eh, maksudnya yang di sini orangnya dikit sih, maksudnya ngga, ngga sebanyak orang di kantor lain.
+EXPTES:	cuman, anaknya gila semua.
+DIWBTJ:	seru ya?
+EXPTES:	he-eh.
+EXPTES:	kamu udah ini, udah pernah nyoba kerja-kerja part-time gitu?
+DIWBTJ:	kerja part-time, hmm... lagi kerja.
+DIWBTJ:	bukan part(-time)... bukan kerja part-time juga sih.
+EXPTES:	oh!
+DIWBTJ:	SP(G)... PRJ, lagi kerja.
+EXPTES:	oh ya?
+DIWBTJ:	eh...
+EXPTES:	oh, jadi itu... apa?
+DIWBTJ:	jaga, jaga stand.
+EXPTES:	jaga...
